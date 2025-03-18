@@ -19,8 +19,8 @@ This is a simple Color Palette Generator built with React. It generates a random
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/joshuaikechukwuodoh/colorPalatteGenerator.git
+    cd colorPalatteGenerator
     ```
 
 2.  Install dependencies:
